@@ -58,5 +58,20 @@ This project helped me apply real-world concepts such as:
 ---
 
 ## 📁 Project Structure
+spotify_end_to_end_project/
+│── src/
+│── notebooks/
+│── utils/
+│── resources/
+│── databricks.yml
+│── azure_data_factory/
+
+## 🧪 How to Run (Optional section, you can fill later)
+
+1. Configure Azure resources
+2. Update storage and SQL connection strings
+3. Run ADF pipelines
+4. Execute Databricks notebooks
+5. Start DLT pipeline
 
 
