@@ -1,10 +1,10 @@
-# 🎶 Spotify End-to-End Data Engineering Project
+# Spotify End-to-End Data Engineering Project
 
 This project demonstrates a complete **end-to-end data engineering pipeline** built on the Azure cloud ecosystem. It simulates real-world data ingestion, transformation, and modeling using modern data engineering best practices.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 This project implements a **Medallion Architecture (Bronze → Silver → Gold)** using real data engineering tools and patterns, focused on reliability, scalability, and data quality.
 
@@ -12,7 +12,7 @@ The pipeline processes Spotify-like data from raw ingestion to analytics-ready t
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 The solution is built using the following layers:
 
@@ -22,7 +22,7 @@ The solution is built using the following layers:
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Azure SQL Database  
 - Azure Data Factory (ADF)  
@@ -34,7 +34,7 @@ The solution is built using the following layers:
 
 ---
 
-## 🔄 Key Features
+## Key Features
 
 ✅ Incremental data loads  
 ✅ Streaming ingestion with Auto Loader  
@@ -45,7 +45,7 @@ The solution is built using the following layers:
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 This project helped me apply real-world concepts such as:
 
